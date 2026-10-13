@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-13T04:52:55.714Z",
+  "updatedAt": "2026-10-13T04:53:55.100Z",
   "problems": [
+    {
+      "frontendId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "problemName": "0338-counting-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+      "folderPath": "0338-counting-bits/",
+      "readmePath": "0338-counting-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0338-counting-bits.py",
+          "path": "0338-counting-bits/0338-counting-bits.py",
+          "sha": "e02391ba55fb56a34cd8664c9ed2786f5de5cc46",
+          "lastSyncedAt": "2026-10-13T04:53:55.100Z"
+        }
+      ]
+    },
     {
       "frontendId": "3954",
       "title": "Sum of Compatible Numbers in Range I",
