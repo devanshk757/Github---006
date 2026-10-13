@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T04:51:38.506Z",
+  "updatedAt": "2026-10-13T04:51:48.329Z",
   "problems": [
     {
       "frontendId": "58",
@@ -44,6 +44,26 @@
           "path": "0657-robot-return-to-origin/0657-robot-return-to-origin.py",
           "sha": "86777eae759143179f013ee5e591a3b1770e409a",
           "lastSyncedAt": "2026-10-13T04:51:38.506Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1108",
+      "title": "Defanging an IP Address",
+      "slug": "defanging-an-ip-address",
+      "problemName": "1108-defanging-an-ip-address",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/defanging-an-ip-address/",
+      "folderPath": "1108-defanging-an-ip-address/",
+      "readmePath": "1108-defanging-an-ip-address/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1108-defanging-an-ip-address.py",
+          "path": "1108-defanging-an-ip-address/1108-defanging-an-ip-address.py",
+          "sha": "ed8655dacd18e9a72640f9d38b624532ab57ba76",
+          "lastSyncedAt": "2026-10-13T04:51:48.329Z"
         }
       ]
     }
