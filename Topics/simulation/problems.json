@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation",
+    "tagId": "61055"
+  },
+  "updatedAt": "2026-10-13T04:51:38.506Z",
+  "problems": [
+    {
+      "frontendId": "657",
+      "title": "Robot Return to Origin",
+      "slug": "robot-return-to-origin",
+      "problemName": "0657-robot-return-to-origin",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-return-to-origin/",
+      "folderPath": "0657-robot-return-to-origin/",
+      "readmePath": "0657-robot-return-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0657-robot-return-to-origin.py",
+          "path": "0657-robot-return-to-origin/0657-robot-return-to-origin.py",
+          "sha": "86777eae759143179f013ee5e591a3b1770e409a",
+          "lastSyncedAt": "2026-10-13T04:51:38.506Z"
+        }
+      ]
+    }
+  ]
+}
