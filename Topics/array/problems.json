@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T04:59:38.871Z",
+  "updatedAt": "2026-10-13T04:59:44.497Z",
   "problems": [
     {
       "frontendId": "55",
@@ -183,7 +183,7 @@
           "filename": "1431-kids-with-the-greatest-number-of-candies.cpp",
           "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.cpp",
           "sha": "7b973bc89d04658a37a78cd9c8c14a64ab799e48",
-          "lastSyncedAt": "2026-10-13T04:55:20.006Z"
+          "lastSyncedAt": "2026-10-13T04:59:44.497Z"
         }
       ]
     },
