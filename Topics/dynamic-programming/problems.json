@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T04:53:38.717Z",
+  "updatedAt": "2026-10-13T04:53:46.413Z",
   "problems": [
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0392-is-subsequence.py",
+          "path": "0392-is-subsequence/0392-is-subsequence.py",
+          "sha": "ba32d3d0932f9d3ae2604a43463d13c8fec1c0f9",
+          "lastSyncedAt": "2026-10-13T04:53:46.413Z"
+        }
+      ]
+    },
     {
       "frontendId": "746",
       "title": "Min Cost Climbing Stairs",
