@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T04:54:02.338Z",
+  "updatedAt": "2026-10-13T04:54:10.408Z",
   "problems": [
+    {
+      "frontendId": "119",
+      "title": "Pascal's Triangle II",
+      "slug": "pascals-triangle-ii",
+      "problemName": "0119-pascals-triangle-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle-ii/",
+      "folderPath": "0119-pascals-triangle-ii/",
+      "readmePath": "0119-pascals-triangle-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0119-pascals-triangle-ii.py",
+          "path": "0119-pascals-triangle-ii/0119-pascals-triangle-ii.py",
+          "sha": "05df03483cdea1a736eaaee8c00edf860085203c",
+          "lastSyncedAt": "2026-10-13T04:54:10.408Z"
+        }
+      ]
+    },
     {
       "frontendId": "121",
       "title": "Best Time to Buy and Sell Stock",
