@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T04:55:41.446Z",
+  "updatedAt": "2026-10-13T04:56:15.288Z",
   "problems": [
     {
       "frontendId": "55",
@@ -224,6 +224,26 @@
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp",
           "sha": "9d08ae692131c3b63dcb55416068b535aa6de73a",
           "lastSyncedAt": "2026-10-13T04:55:41.446Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2078",
+      "title": "Two Furthest Houses With Different Colors",
+      "slug": "two-furthest-houses-with-different-colors",
+      "problemName": "2078-two-furthest-houses-with-different-colors",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-furthest-houses-with-different-colors/",
+      "folderPath": "2078-two-furthest-houses-with-different-colors/",
+      "readmePath": "2078-two-furthest-houses-with-different-colors/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2078-two-furthest-houses-with-different-colors.py",
+          "path": "2078-two-furthest-houses-with-different-colors/2078-two-furthest-houses-with-different-colors.py",
+          "sha": "e4736b94966884f0b5afbac6ee28e32fb5b918fa",
+          "lastSyncedAt": "2026-10-13T04:56:15.288Z"
         }
       ]
     },
