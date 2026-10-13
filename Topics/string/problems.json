@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T04:52:12.953Z",
+  "updatedAt": "2026-10-13T04:53:09.235Z",
   "problems": [
     {
       "frontendId": "58",
@@ -124,6 +124,26 @@
           "path": "1108-defanging-an-ip-address/1108-defanging-an-ip-address.py",
           "sha": "ed8655dacd18e9a72640f9d38b624532ab57ba76",
           "lastSyncedAt": "2026-10-13T04:51:48.329Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1668",
+      "title": "Maximum Repeating Substring",
+      "slug": "maximum-repeating-substring",
+      "problemName": "1668-maximum-repeating-substring",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-repeating-substring/",
+      "folderPath": "1668-maximum-repeating-substring/",
+      "readmePath": "1668-maximum-repeating-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1668-maximum-repeating-substring.py",
+          "path": "1668-maximum-repeating-substring/1668-maximum-repeating-substring.py",
+          "sha": "8cbbf0723d1a7a91089720d4b186a69bfe938610",
+          "lastSyncedAt": "2026-10-13T04:53:09.235Z"
         }
       ]
     }
