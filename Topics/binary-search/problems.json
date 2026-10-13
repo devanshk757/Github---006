@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T04:54:49.275Z",
+  "updatedAt": "2026-10-13T04:59:28.519Z",
   "problems": [
     {
       "frontendId": "349",
@@ -23,7 +23,7 @@
           "filename": "0349-intersection-of-two-arrays.cpp",
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "1d6bb32e6d22fa77a65c4c48c9f31abd1de0d733",
-          "lastSyncedAt": "2026-10-13T04:54:49.275Z"
+          "lastSyncedAt": "2026-10-13T04:59:28.519Z"
         }
       ]
     }
