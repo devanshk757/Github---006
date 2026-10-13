@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:26:02.881Z",
+  "updatedAt": "2026-10-13T05:26:21.139Z",
   "problems": [
     {
       "frontendId": "58",
@@ -223,7 +223,7 @@
           "filename": "2027-minimum-moves-to-convert-string.py",
           "path": "2027-minimum-moves-to-convert-string/2027-minimum-moves-to-convert-string.py",
           "sha": "c8713c3d0d1d0f134faf6eee02757122771c351a",
-          "lastSyncedAt": "2026-10-13T04:56:38.431Z"
+          "lastSyncedAt": "2026-10-13T05:26:21.139Z"
         }
       ]
     },
