@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T04:56:07.162Z",
+  "updatedAt": "2026-10-13T04:56:38.431Z",
   "problems": [
     {
       "frontendId": "58",
@@ -204,6 +204,26 @@
           "path": "1668-maximum-repeating-substring/1668-maximum-repeating-substring.py",
           "sha": "8cbbf0723d1a7a91089720d4b186a69bfe938610",
           "lastSyncedAt": "2026-10-13T04:53:09.235Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2027",
+      "title": "Minimum Moves to Convert String",
+      "slug": "minimum-moves-to-convert-string",
+      "problemName": "2027-minimum-moves-to-convert-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-convert-string/",
+      "folderPath": "2027-minimum-moves-to-convert-string/",
+      "readmePath": "2027-minimum-moves-to-convert-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2027-minimum-moves-to-convert-string.py",
+          "path": "2027-minimum-moves-to-convert-string/2027-minimum-moves-to-convert-string.py",
+          "sha": "c8713c3d0d1d0f134faf6eee02757122771c351a",
+          "lastSyncedAt": "2026-10-13T04:56:38.431Z"
         }
       ]
     }
