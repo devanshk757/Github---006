@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T05:25:07.066Z",
+  "updatedAt": "2026-10-13T05:25:42.714Z",
   "problems": [
     {
       "frontendId": "55",
@@ -23,7 +23,7 @@
           "filename": "0055-jump-game.py",
           "path": "0055-jump-game/0055-jump-game.py",
           "sha": "4acbb1ca2d0a45f5ca8fccf52963123ce057fb5d",
-          "lastSyncedAt": "2026-10-13T04:59:49.474Z"
+          "lastSyncedAt": "2026-10-13T05:25:42.714Z"
         }
       ]
     },
