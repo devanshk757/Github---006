@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array",
+    "tagId": "5"
+  },
+  "updatedAt": "2026-10-13T04:52:18.538Z",
+  "problems": [
+    {
+      "frontendId": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "problemName": "2149-rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "folderPath": "2149-rearrange-array-elements-by-sign/",
+      "readmePath": "2149-rearrange-array-elements-by-sign/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2149-rearrange-array-elements-by-sign.py",
+          "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.py",
+          "sha": "538c115e3bcfe1c0546aa679d5a1705b5aa12279",
+          "lastSyncedAt": "2026-10-13T04:52:18.538Z"
+        }
+      ]
+    }
+  ]
+}
