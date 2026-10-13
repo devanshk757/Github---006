@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T04:54:10.408Z",
+  "updatedAt": "2026-10-13T04:54:17.605Z",
   "problems": [
+    {
+      "frontendId": "118",
+      "title": "Pascal's Triangle",
+      "slug": "pascals-triangle",
+      "problemName": "0118-pascals-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
+      "folderPath": "0118-pascals-triangle/",
+      "readmePath": "0118-pascals-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0118-pascals-triangle.py",
+          "path": "0118-pascals-triangle/0118-pascals-triangle.py",
+          "sha": "a30b58d40274259e9a9ca385b2f3da87c28101fa",
+          "lastSyncedAt": "2026-10-13T04:54:17.605Z"
+        }
+      ]
+    },
     {
       "frontendId": "119",
       "title": "Pascal's Triangle II",
