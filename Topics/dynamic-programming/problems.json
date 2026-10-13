@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T04:58:46.443Z",
+  "updatedAt": "2026-10-13T04:58:50.533Z",
   "problems": [
     {
       "frontendId": "55",
@@ -143,7 +143,7 @@
           "filename": "0392-is-subsequence.py",
           "path": "0392-is-subsequence/0392-is-subsequence.py",
           "sha": "ba32d3d0932f9d3ae2604a43463d13c8fec1c0f9",
-          "lastSyncedAt": "2026-10-13T04:53:46.413Z"
+          "lastSyncedAt": "2026-10-13T04:58:50.533Z"
         }
       ]
     },
