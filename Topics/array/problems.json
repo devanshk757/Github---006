@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T04:53:38.717Z",
+  "updatedAt": "2026-10-13T04:54:02.338Z",
   "problems": [
+    {
+      "frontendId": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "problemName": "0121-best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "folderPath": "0121-best-time-to-buy-and-sell-stock/",
+      "readmePath": "0121-best-time-to-buy-and-sell-stock/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0121-best-time-to-buy-and-sell-stock.py",
+          "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
+          "sha": "921c8bc078c18836b2442741a017dbd7db1a820d",
+          "lastSyncedAt": "2026-10-13T04:54:02.338Z"
+        }
+      ]
+    },
     {
       "frontendId": "189",
       "title": "Rotate Array",
