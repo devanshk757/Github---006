@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T04:55:50.715Z",
+  "updatedAt": "2026-10-13T04:55:56.548Z",
   "problems": [
     {
       "frontendId": "9",
@@ -104,6 +104,26 @@
           "path": "1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.py",
           "sha": "121bc005ea73abf635a4856a35fb5587032f0f83",
           "lastSyncedAt": "2026-10-13T04:52:42.198Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1523",
+      "title": "Count Odd Numbers in an Interval Range",
+      "slug": "count-odd-numbers-in-an-interval-range",
+      "problemName": "1523-count-odd-numbers-in-an-interval-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/",
+      "folderPath": "1523-count-odd-numbers-in-an-interval-range/",
+      "readmePath": "1523-count-odd-numbers-in-an-interval-range/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1523-count-odd-numbers-in-an-interval-range.cpp",
+          "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.cpp",
+          "sha": "8da97be4044f0e7aebd50069795890da4488d638",
+          "lastSyncedAt": "2026-10-13T04:55:56.548Z"
         }
       ]
     }
