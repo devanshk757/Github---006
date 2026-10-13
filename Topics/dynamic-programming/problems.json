@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T04:52:55.714Z",
+  "updatedAt": "2026-10-13T04:53:09.235Z",
   "problems": [
     {
       "frontendId": "1137",
@@ -24,6 +24,26 @@
           "path": "1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.py",
           "sha": "121bc005ea73abf635a4856a35fb5587032f0f83",
           "lastSyncedAt": "2026-10-13T04:52:42.198Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1668",
+      "title": "Maximum Repeating Substring",
+      "slug": "maximum-repeating-substring",
+      "problemName": "1668-maximum-repeating-substring",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-repeating-substring/",
+      "folderPath": "1668-maximum-repeating-substring/",
+      "readmePath": "1668-maximum-repeating-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1668-maximum-repeating-substring.py",
+          "path": "1668-maximum-repeating-substring/1668-maximum-repeating-substring.py",
+          "sha": "8cbbf0723d1a7a91089720d4b186a69bfe938610",
+          "lastSyncedAt": "2026-10-13T04:53:09.235Z"
         }
       ]
     },
