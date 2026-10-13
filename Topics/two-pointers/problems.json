@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T04:52:30.108Z",
+  "updatedAt": "2026-10-13T04:53:46.413Z",
   "problems": [
     {
       "frontendId": "125",
@@ -64,6 +64,26 @@
           "path": "0344-reverse-string/0344-reverse-string.py",
           "sha": "6353b118edee7fc3dc779364a66a210a25b5643e",
           "lastSyncedAt": "2026-10-13T04:52:04.182Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0392-is-subsequence.py",
+          "path": "0392-is-subsequence/0392-is-subsequence.py",
+          "sha": "ba32d3d0932f9d3ae2604a43463d13c8fec1c0f9",
+          "lastSyncedAt": "2026-10-13T04:53:46.413Z"
         }
       ]
     },
