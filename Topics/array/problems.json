@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T04:55:09.815Z",
+  "updatedAt": "2026-10-13T04:55:20.006Z",
   "problems": [
     {
       "frontendId": "118",
@@ -144,6 +144,26 @@
           "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.py",
           "sha": "540b8067c966bbf026cb0c093266815bac8ff69d",
           "lastSyncedAt": "2026-10-13T04:53:38.717Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1431",
+      "title": "Kids With the Greatest Number of Candies",
+      "slug": "kids-with-the-greatest-number-of-candies",
+      "problemName": "1431-kids-with-the-greatest-number-of-candies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+      "folderPath": "1431-kids-with-the-greatest-number-of-candies/",
+      "readmePath": "1431-kids-with-the-greatest-number-of-candies/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1431-kids-with-the-greatest-number-of-candies.cpp",
+          "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.cpp",
+          "sha": "7b973bc89d04658a37a78cd9c8c14a64ab799e48",
+          "lastSyncedAt": "2026-10-13T04:55:20.006Z"
         }
       ]
     },
