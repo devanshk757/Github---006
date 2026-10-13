@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T04:55:20.006Z",
+  "updatedAt": "2026-10-13T04:55:25.006Z",
   "problems": [
     {
       "frontendId": "118",
@@ -164,6 +164,26 @@
           "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.cpp",
           "sha": "7b973bc89d04658a37a78cd9c8c14a64ab799e48",
           "lastSyncedAt": "2026-10-13T04:55:20.006Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "1470-shuffle-the-array/",
+      "readmePath": "1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1470-shuffle-the-array.py",
+          "path": "1470-shuffle-the-array/1470-shuffle-the-array.py",
+          "sha": "636f1f436e83ae525af48dedc552584a287a10fb",
+          "lastSyncedAt": "2026-10-13T04:55:25.006Z"
         }
       ]
     },
